@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document DocumentIdentifier="191640301P001000250" DocumentFilename="191640301P001000250.xml" TotalPageCount="1">
+  <Page Filename="document_1_envelope_page_1.pdf" ImageOffset="0" PageType="ENV" ParentPageType="NA" HighValueClaim="FALSE" DocumentIdentifier="191680711P001000001">
+    <Field FieldName="Capture Application">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="System ID">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Customer Number">
+      <Output CapturedValue="0901" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="0901" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Engagement">
+      <Output CapturedValue="0901_project" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="0901_project" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Batch_Class">
+      <Output CapturedValue="EXELA_IRVING" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="EXELA_IRVING" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Batch_ID">
+      <Output CapturedValue="713" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="713" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Batch_Name">
+      <Output CapturedValue="AS007P-19168000001" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="AS007P-19168000001" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Batch_Priority">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Batch_Creation_Date">
+      <Output CapturedValue="20190617" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="20190617" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Batch_Creation_Time">
+      <Output CapturedValue="044056" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="044056" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Tracking_ID">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Unique Barcode">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Received_Method">
+      <Output CapturedValue="FAX" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="FAX" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Received_Location">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Received_Time_Zone">
+      <Output CapturedValue="-4" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="-4" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Received_Date">
+      <Output CapturedValue="20200102" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="20200102" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Received_Time">
+      <Output CapturedValue="044056" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="044056" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Source_File_Name">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Courier_Name">
+      <Output CapturedValue="USPS" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="USPS" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Container_ID">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Document_Type">
+      <Output CapturedValue="GENERAL" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="GENERAL" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="File_Size">
+      <Output CapturedValue="3257" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="3257" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="MailSorterUID">
+      <Output CapturedValue="ABC000000567" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="ABC000000567" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Sorter_Time_Zone">
+      <Output CapturedValue="-4" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="-4" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Sorter_Date">
+      <Output CapturedValue="20190916" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="20190916" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Sorter_Time">
+      <Output CapturedValue="010900" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="010900" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Scanning Location">
+      <Output CapturedValue="PARIS" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="PARIS" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="SCAN_Time_zone">
+      <Output CapturedValue="-4" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="-4" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="SCAN_Date">
+      <Output CapturedValue="22012020" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="22012020" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="SCAN_Time">
+      <Output CapturedValue="010900" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="010900" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Scan_File_Name">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Rescan">
+      <Output CapturedValue="N" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="N" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Scan_Operator_ID">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="ScanQC_Operator_ID">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Index_Time_zone">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Index_Operator_ID">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Index_Date">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Index_Time">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Index_Keystrokes">
+      <Output CapturedValue="0" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="0" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="IndexQC_Time_zone">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="IndexQC_Operator_ID">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="IndexQC_Date">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="IndexQC_Time">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="IndexQC_Keystrokes">
+      <Output CapturedValue="0" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="0" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Release_Time_zone">
+      <Output CapturedValue="-4" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="-4" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Release_Date">
+      <Output CapturedValue="20190628" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="20190628" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Release_Time">
+      <Output CapturedValue="044454" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="044454" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Page_Count">
+      <Output CapturedValue="1" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="1" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Front Page Count">
+      <Output CapturedValue="1" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="1" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Back Page Count">
+      <Output CapturedValue="0" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="0" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Number_of_Images">
+      <Output CapturedValue="1" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="1" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Image_Bit_Depth">
+      <Output CapturedValue="1" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="1" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Recipient Name">
+      <Output CapturedValue="DMR QA" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="DMR QA" Confidence="90" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Recipient Name1">
+      <Output CapturedValue="John" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="John" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Recipient Email">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Recipient Address1">
+      <Output CapturedValue="680 W PROSPECT AVE" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="680 W PROSPECT AVE" Confidence="95" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Recipient Address2">
+      <Output CapturedValue="no Flug" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="no Flug" Confidence="95" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Recipient City">
+      <Output CapturedValue="Modesto" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="Modesto" Confidence="95" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Recipient State">
+      <Output CapturedValue="RI" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="RI" Confidence="95" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Recipient Postal Code">
+      <Output CapturedValue="77646" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="77646" Confidence="95" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Sender Name">
+      <Output CapturedValue="SID" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="SID" Confidence="95" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Sender Name1">
+      <Output CapturedValue="TEST" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="TEST" Confidence="0" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Sender Company">
+      <Output CapturedValue="Cogni" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="Cogni" Confidence="0" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Sender Email">
+      <Output CapturedValue="prasad.joshi@yahoo.com" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="prasad.joshi@yahoo.com" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Sender Address1">
+      <Output CapturedValue="608 HIGHWOOD ST" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="608 HIGHWOOD ST" Confidence="95" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Sender Address2">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="0" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Sender City">
+      <Output CapturedValue="Hanover" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="Hanover" Confidence="95" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Sender State">
+      <Output CapturedValue="PA" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="PA" Confidence="95" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Sender Postal Code">
+      <Output CapturedValue="17335" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="17335" Confidence="95" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Postal Post Location">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Postal Post Date">
+      <Output CapturedValue="" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="Department">
+      <Output CapturedValue="HR" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="HR" Confidence="0" ConfidenceString="" />
+      </Output>
+    </Field>
+    
+    <Field FieldName="UserRoutingRule">
+      <Output CapturedValue="Deliver Physically and Digitally" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="Deliver Physically and Digitally" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+    <Field FieldName="UserOptOut">
+      <Output CapturedValue="true" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="true" Confidence="100" ConfidenceString="" />
+      </Output>
+    </Field>
+	 <Field FieldName="JunkMail">
+      <Output CapturedValue="true" KeyPassesRequired="0">
+        <DataSource Name="SYSTEM" Value="true" Confidence="95" ConfidenceString="" />
+      </Output>
+    </Field>
+	
+	
+	
+	
+	
+	
+    <KeyWord><![CDATA[Marion Podgurski
+608 HIGHWOOD ST
+Denver, DC 17335
+Bruno Flug
+680 W PROSPECT AVE
+Modesto, RI 77646
+]]></KeyWord>
+  </Page>
+</Document>
